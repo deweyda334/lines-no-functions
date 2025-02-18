@@ -26,6 +26,15 @@ def main():
     while running:
         running = handle_events()
         screen.fill(config.BLACK) # Use color from config
+
+
+
+
+
+
+
+
+        
         pygame.display.flip()
 
         # Limit the frame rate to the specifiied frames per second (FPS) 
