@@ -28,7 +28,8 @@ def main():
         screen.fill(config.BLACK) # Use color from config
         pygame.display.flip()
 
-        # Limit the frame rate to the specifiied frames per second (FPS) clock.tick(config.FPS) # Use the clock to control the frame rate
+        # Limit the frame rate to the specifiied frames per second (FPS) 
+        clock.tick(config.FPS) # Use the clock to control the frame rate
 
     
     pygame.quit()
