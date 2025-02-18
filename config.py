@@ -13,7 +13,7 @@ WINDOW_HEIGHT = 600
 
 # Window title (caption)
 # Update the window title as needed
-TITLE = "DAX DEWEY"
+TITLE = "Draw Lines Without a Function"
 
 # Frame rate (frames per second)
 FPS = 60
